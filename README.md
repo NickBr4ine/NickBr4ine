@@ -1,3 +1,4 @@
+<img width="736" height="414" alt="_ (1)" src="https://github.com/user-attachments/assets/ee6b1ef7-19f8-48f7-9f2a-10105a5fbb46" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NickBr4ine&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -13,5 +14,4 @@
 [![](https://visitcount.itsvg.in/api?id=NickBr4ine&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
